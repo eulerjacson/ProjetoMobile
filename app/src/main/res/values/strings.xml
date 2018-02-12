@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Projeto Mobile</string>
+    <string name="error_request">Desculpe, ocorreu um erro!</string>
+    <string name="umasemana">1 semana</string>
+    <string name="quinzedias">15 dias</string>
+    <string name="trintadias">30 dias</string>
+</resources>
